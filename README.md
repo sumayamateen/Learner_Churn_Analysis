@@ -6,7 +6,7 @@ The workflow covers data cleaning, feature engineering, exploratory data analysi
 
 ## Problem Statement
 - Learners start courses highly motivated, but many drop out unexpectedly.  
-- 31.8% of learners withdraw silently, with no clear indicators, making intervention difficult.  
+- Learners withdraw silently, with no clear indicators, making intervention difficult.  
 - Dropouts are influenced by personal, academic, and platform-related factors.  
 - High enrollments but low completions highlight the need for predictive solutions to detect at-risk learners early.
 
