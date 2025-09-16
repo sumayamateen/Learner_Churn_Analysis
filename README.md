@@ -1,4 +1,4 @@
-# Learner Churn Analysis Project 📚
+# Learner Churn Analysis Project 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
@@ -53,9 +53,3 @@ The workflow includes **data cleaning**, **feature engineering**, **exploratory 
 - Improve recommendation algorithm and use AI prompts to re-engage learners  
 
 ---
-
-## Optional Visuals
-You can add screenshots or charts here for better visual appeal:  
-```markdown
-![EDA Visualization](images/eda_chart.png)
-![Model Performance](images/model_accuracy.png)
