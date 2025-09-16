@@ -1,4 +1,4 @@
-# Learner Churn Analysis Project 📚
+# Learner Churn Analysis Project 
 
 ## Overview
 This project predicts learner churn (students dropping out) on an online learning platform.  
